@@ -1,5 +1,5 @@
 import { delay } from '../utils/utils';
-import { BOOKS_DB } from '../mock-data/books';
+import BOOKS_DB from '../mock-data/books';
 
 /**
  * Fetches book details by ID

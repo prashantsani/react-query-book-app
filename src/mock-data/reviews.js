@@ -1,7 +1,7 @@
 /**
  * Mock database for reviews
  */
-export default REVIEWS_DB = {
+const REVIEWS_DB = {
   "pD6arNyKyi8C": [
     {
       id: 1,
@@ -91,3 +91,4 @@ export default REVIEWS_DB = {
     }
   ]
 };
+export default REVIEWS_DB;

@@ -1,5 +1,5 @@
 import { delay } from '../utils/utils';
-import { REVIEWS_DB } from '../mock-data/reviews';
+import REVIEWS_DB from '../mock-data/reviews';
 
 /**
  * Submits a new review for a book

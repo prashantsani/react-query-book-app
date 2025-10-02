@@ -2,7 +2,7 @@
  * Mock database for books
  * In production, these would come from a real API
  */
-export default BOOKS_DB = {
+const BOOKS_DB = {
   "pD6arNyKyi8C": {
     id: "pD6arNyKyi8C",
     title: "The Hobbit",
@@ -48,3 +48,5 @@ export default BOOKS_DB = {
     averageRating: 4.9
   }
 };
+
+export default BOOKS_DB;
